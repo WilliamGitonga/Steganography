@@ -1,0 +1,3 @@
+steghide embed -ef '/home/william-gitonga/Desktop/hen.txt' -cf '/home/william-gitonga/Downloads/fathen.jpeg' -p password#kill 
+embedding "/home/william-gitonga/Desktop/hen.txt" in "/home/william-gitonga/Downloads/fathen.jpeg"... done
+
